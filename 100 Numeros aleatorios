@@ -6,3 +6,15 @@ for i in range (10000):
     A.append(random.randrange(1, 100))
  
 print (A)
+
+
+
+i=1
+x=7
+
+while i<100:
+    if x=[A]:
+        print(x, "aqui esta el numero")
+    else:
+        print(x, "No esta tu numero")
+    i = i+1 
