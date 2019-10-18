@@ -1,0 +1,8 @@
+import random
+ 
+A = [ ]
+ 
+for i in range (10000):
+    A.append(random.randrange(1, 100))
+ 
+print (A)
